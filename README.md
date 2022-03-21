@@ -8,8 +8,8 @@ About me ...
 
 I’m currently working on ...
 
-* [Gauge](https://gauge.org) - A test runner
 * [Taiko](https://taiko.dev) - A node js library for automating browsers
+* [Gauge](https://gauge.org) - A test runner
 * [AdaSwarm](https://github.com/AdaSwarm/AdaSwarm) - A pytorch library for Machine learning
 
 Past work ...
