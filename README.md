@@ -4,7 +4,6 @@ About me ...
 
 * Developer and Product Manager
 * Working at [Sahaj.ai](https://sahaj.ai)
-* Ex-[Thoughtworks](https://thoughtworks.com)
 
 I’m currently working on ...
 
